@@ -20,4 +20,4 @@ Hope you find this software very useful in your day to day work.
 
 Some screenshot below:
 
-[Imgur](https://i.imgur.com/WOnyYjg.png)
+![Screenshot 1](https://i.imgur.com/WOnyYjg.png "Screenshot 1")
