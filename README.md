@@ -25,7 +25,7 @@ Some screenshot below:
 
 Summary:
 
-Management of Tasks, Guides, Scripts, Code Snippets, Collaborations, Knowledge Bases, Tech Supports
+Management of Team Documents, Tasks, Guides, Scripts, Code Snippets, Collaborations, Knowledge Bases, Tech Supports
 
 Description:
 
