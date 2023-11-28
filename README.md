@@ -21,3 +21,23 @@ Hope you find this software very useful in your day to day work.
 Some screenshot below:
 
 ![Screenshot 1](https://i.imgur.com/WOnyYjg.png "Screenshot 1")
+
+
+Summary:
+
+Management of Tasks, Guides, Scripts, Code Snippets, Collaborations, Knowledge Bases, Tech Supports
+
+Description:
+
+This is a Free & Open Source, Team Document & Team Code Snippets Storage Software, Written in PHP & Mysql. In its Default Configuration, nearly 1,000 Teams can work Parallely, documenting everything that they do, with a very easy to use interface. The speed & accessability of this application, will only depend on your Hosting Provider's Server & Network Speed. Please see the Features below for more information.
+
+Features:
+
+1. Unlimited Number of Documents, Categories, Records, Versions etc.
+2. Category Names can include sub, sub-sub names with a / ( slash seperator )
+3. Subject Names can have Version Numbers, Tags like Solved etc.
+4. Every Field is Filterable, Searchable, Sortable as well.
+5. Quick Search & Detailed Filter Builder is also available.
+6. Export & Print Facilities are also available.
+7. File Upload, Image Upload, Audio Upload, Video Upload & Video Embed are available as well. The Maximum size of attachments will depend on your Hosting Provider's php.ini settings.
+8. Each Team ID is totally independent of the other.
