@@ -36,7 +36,7 @@ if you are new to Virtual Machines OR if you need more instructions on this proj
 
 https://youtu.be/Crxr8X9bGn8
 
-Hope you find this software very useful in your day to day work.
+Hope you find this software very useful in your day to day work. If you do, please give a Star Rating to it, so that others get to know about it.
 
 Some screenshot below:
 
