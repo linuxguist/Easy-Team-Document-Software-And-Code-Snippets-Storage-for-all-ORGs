@@ -26,7 +26,7 @@ Instructions:
 3. Access the index.php on your internet browser
 4. The default login / team id(s) are team1 upto team1000 and the default password for all accounts is change_this
 5. Enable GD Support in your php.ini file
-6. Ensure Write Permissions for the Background Service User ( like www-data etc. ) on all the upload folders
+6. Ensure Write Permissions for the Background Service User ( like www-data , daemon etc. ) on all the upload folders
 
 if you need a complete and ready to use Virtual Machine, for Production Usage, you can get it here: ( Direct download link, Right Click to Open in New Tab )
 
