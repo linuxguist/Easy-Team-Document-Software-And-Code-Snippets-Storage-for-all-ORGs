@@ -28,7 +28,11 @@ Instructions:
 5. Enable GD Support in your php.ini file
 6. Ensure Write Permissions for the Background Service User ( like www-data , daemon etc. ) on all the upload folders
 
-if you need a complete and ready to use Virtual Machine, for Production Usage, you can get it here: ( Direct download link, Right Click to Open in New Tab )
+Some Hints : If you are deploying this software, on a dedicated server ( as opposed to a shared one ), then follow this simple guide, for alloting more memory, to the Mysql / MariaDB database server, for enhancing its performance ( open this link in a new tab ) : https://sourceforge.net/projects/my-project-files/files/mysql_mariadb_performance_enhancements_guide.txt/download If needed, you can increase it even more, for a 64 Bit Version of your database server.
+
+Also, disable directory browsing on your webserver, by following this forum article here : https://stackoverflow.com/questions/2530372/how-do-i-disable-directory-browsing
+
+if you need a complete and ready to use Virtual Machine, for Intranet Usage, you can get it here: ( Direct download link, Right Click to Open in New Tab )
 
 https://sourceforge.net/projects/easy-team-document-software/files/latest/download
 
